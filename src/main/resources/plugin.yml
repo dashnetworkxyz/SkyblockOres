@@ -1,0 +1,4 @@
+name: SkyblockOres
+version: '${project.version}'
+main: xyz.dashnetwork.skyblockores.SkyblockOres
+api-version: '1.20'
